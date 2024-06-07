@@ -1,1 +1,3 @@
-# Project4_Dynamic_Array
+# Author Mohammed Almislaty
+# Custom Dynamic Array Class
+# Using C++
